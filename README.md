@@ -1,4 +1,9 @@
-## Hi there 👋
+# AJ Hull  
+
+   <a href="https://www.linkedin.com/in/AJHull"><img src="https://github.com/user-attachments/assets/4c58e586-23cc-48f5-8ce4-611fe04986eb" alt="LinkedIn" width="23" height="23" align="bottom"></a>  [linkedin.com/in/**AJHull**](https://www.linkedin.com/in/AJHull)  ·  [_Follow_](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=ajhull)  
+   <a href="https://x.com/sdsql"><img src="https://github.com/user-attachments/assets/6cac2caf-aff8-48d4-ae79-4e384d63ef2d" alt="X" width="20" height="15" align="bottom"></a>  [**@sdsql**](https://x.com/sdsql)  ·  [_Follow_](https://x.com/intent/user?screen_name=sdsql)
+
+<!-- ## Hi there 👋 -->
 
 <!--
 **AJHull/AJHull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
